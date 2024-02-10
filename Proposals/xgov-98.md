@@ -3,7 +3,7 @@ id: 98
 period: 3
 title: Launch of Nimblr - Audits, Licensing, & GO LIVE!
 author: Adam Hofmann (@ahrevival)
-discussions-to: 
+discussions-to: https://forum.algorand.org/t/xgov-98-launch-of-nimblr-audits-licensing-go-live/11348
 company_name: Nimblr
 category: dApps
 focus_area: Defi
